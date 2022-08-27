@@ -54,7 +54,7 @@
 
 *	Kotlin(MySql)
 *	Android Studio
-*	Vysor
+*	DB Browser for SQLite
 
 Возможны некоторые изменения по ходу разработки...
 
